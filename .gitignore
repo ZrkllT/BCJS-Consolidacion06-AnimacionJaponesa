@@ -1,3 +1,8 @@
+#otros
+*.pdf
+*.rar
+*.zip
+
 # Logs
 logs
 *.log
